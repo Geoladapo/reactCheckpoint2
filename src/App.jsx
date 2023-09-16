@@ -7,7 +7,7 @@ export default function App() {
   return (
     <>
       <Card />
-      <p className="text-center">Hello Oladapo</p>
+      <p className="text-center">Hello Elijah</p>
     </>
   );
 }
