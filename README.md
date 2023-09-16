@@ -1,3 +1,11 @@
+The Output of the code
+
+![2023-09-16 15-52-40-05](https://github.com/Geoladapo/reactCheckpoint2/assets/98595369/e438ada6-3819-4bb3-b6ea-e8a2a645c84d)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +76,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
